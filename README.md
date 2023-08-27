@@ -45,3 +45,22 @@ You can view the **t-test** notebook in static or dynamic form by clicking the f
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/angelinka/machine_learning_assessment/blob/main/ttest.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/angelinka/machine_learning_assessment/blob/main/ttest.ipynb/HEAD)
+
+You can view the **regression** notebook in static or dynami form here:
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/angelinka/machine_learning_assessment/blob/main/regression.ipynb)
+
+## Credits
+I heavily relied on pandas, seaborn, matplotlib, NumPy, scipy.stats and stackoverflow resources in creating this repository.
+
+[pandas](https://pandas.pydata.org/)
+[matplotlib.org](https://matplotlib.org/stable/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
+[NumPy](https://numpy.org/)
+[seaborn](https://seaborn.pydata.org/api.html)
+[stackoverflow](https://stackoverflow.com)
+[scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
+
+A list of references can be found at the end of the notebook with further references credited throughout the notebook.
+
+## Contact
+
+[angelb511@gmail.com](mailto:angelb511@gmail.com)
